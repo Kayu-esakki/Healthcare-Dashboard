@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "homepage": "https://iamthirukkumaran.github.io/Healthcare-Dashboard",
     "name": "healthcare-dashboard",
     "version": "0.1.0",
@@ -45,7 +44,7 @@
     "devDependencies": {
         "gh-pages": "^6.3.0"
     }
-=======
+
     "react-scripts": "^5.0.1",
 
   "name": "healthcare-dashboard",
@@ -92,5 +91,5 @@
     ]
   },
   "homepage": "https://iamthirukkumaran.github.io/Healthcare-Dashboard"
->>>>>>> 75221847bf1e9597ca311be3e66ac8a7cd736e90
+
 }
